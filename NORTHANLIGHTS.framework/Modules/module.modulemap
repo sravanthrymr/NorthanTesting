@@ -1,0 +1,6 @@
+framework module NORTHANLIGHTS {
+  umbrella header "NORTHANLIGHTS.h"
+
+  export *
+  module * { export * }
+}
